@@ -47,7 +47,6 @@ To extend the prototype:
 
 - Edit `index.html` to update page content, layout, or structure.
 - Add CSS or JavaScript files if additional styling or interactivity is required.
-- Expand the `README.md` with more details or usage examples.
 
 ## License
 
